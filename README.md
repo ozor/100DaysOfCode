@@ -1,6 +1,5 @@
-# 100DaysOfCode
+# 100 Days of Code Challenge
 
-My "100 Days of Code Challenge" Repo
 
 ## Day 1
 
