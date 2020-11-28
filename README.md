@@ -1,6 +1,15 @@
 # 100 Days of Code Challenge
 
 
+## Day 4
+
+**Done**: 
+
+- Created [Exercism repository](https://github.com/ozor/Exercism)
+  - Added "Hello, World!" solution
+- Added similar code to [Golang-projects repository](https://github.com/ozor/Golang-projects/blob/master/exercises/hello_world.go)
+
+
 ## Day 3
 
 **Done**: 
