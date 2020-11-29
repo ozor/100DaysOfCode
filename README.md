@@ -1,12 +1,23 @@
 # 100 Days of Code Challenge
 
 
+## Day 5
+
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added "Hello, World!" solution for PHP track
+  - Added "Hello, World!" solution for Python track
+  - Added "Hello, World!" solution for JavaScript track
+  - Added "Hello, World!" solution for Bash track
+
+
 ## Day 4
 
 **Done**: 
 
 - Created [Exercism repository](https://github.com/ozor/Exercism)
-  - Added "Hello, World!" solution
+  - Added "Hello, World!" solution for Golang track
 - Added similar code to [Golang-projects repository](https://github.com/ozor/Golang-projects/blob/master/exercises/hello_world.go)
 
 
