@@ -1,15 +1,25 @@
 # 100 Days of Code Challenge
 
 
+## Day 6
+
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added "Hamming" solution for the PHP track
+  - Added "Gigasecond" solution for the PHP track
+- Added [Learning notes](https://github.com/ozor/Golang-projects/tree/master/stepik) (ru) for the [course at Stepik](https://stepik.org/course/54403)
+
+
 ## Day 5
 
 **Done**: 
 
 - [Exercism](https://github.com/ozor/Exercism)
-  - Added "Hello, World!" solution for PHP track
-  - Added "Hello, World!" solution for Python track
-  - Added "Hello, World!" solution for JavaScript track
-  - Added "Hello, World!" solution for Bash track
+  - Added "Hello, World!" solution for the PHP track
+  - Added "Hello, World!" solution for the Python track
+  - Added "Hello, World!" solution for the JavaScript track
+  - Added "Hello, World!" solution for the Bash track
 
 
 ## Day 4
