@@ -1,13 +1,21 @@
 # 100 Days of Code Challenge
 
 
+## Day 7
+
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "RNA Transcription" solution for the PHP track
+
+
 ## Day 6
 
 **Done**: 
 
 - [Exercism](https://github.com/ozor/Exercism)
-  - Added "Hamming" solution for the PHP track
-  - Added "Gigasecond" solution for the PHP track
+  - Added the "Hamming" solution for the PHP track
+  - Added the "Gigasecond" solution for the PHP track
 - Added [Learning notes](https://github.com/ozor/Golang-projects/tree/master/stepik) (ru) for the [course at Stepik](https://stepik.org/course/54403)
 
 
@@ -16,10 +24,10 @@
 **Done**: 
 
 - [Exercism](https://github.com/ozor/Exercism)
-  - Added "Hello, World!" solution for the PHP track
-  - Added "Hello, World!" solution for the Python track
-  - Added "Hello, World!" solution for the JavaScript track
-  - Added "Hello, World!" solution for the Bash track
+  - Added the "Hello, World!" solution for the PHP track
+  - Added the "Hello, World!" solution for the Python track
+  - Added the "Hello, World!" solution for the JavaScript track
+  - Added the "Hello, World!" solution for the Bash track
 
 
 ## Day 4
@@ -27,7 +35,7 @@
 **Done**: 
 
 - Created [Exercism repository](https://github.com/ozor/Exercism)
-  - Added "Hello, World!" solution for Golang track
+  - Added the "Hello, World!" solution for Golang track
 - Added similar code to [Golang-projects repository](https://github.com/ozor/Golang-projects/blob/master/exercises/hello_world.go)
 
 
