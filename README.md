@@ -1,6 +1,15 @@
 # 100 Days of Code Challenge
 
 
+## Day 8
+
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Two Fer" solution for the PHP track
+  - Added the "Two Fer" solution for the Python track
+
+
 ## Day 7
 
 **Done**: 
