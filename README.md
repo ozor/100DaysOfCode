@@ -1,6 +1,16 @@
 # 100 Days of Code Challenge
 
 
+## Day 9
+
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Two Fer" solution for the Go track
+  - Added the "Two Fer" solution for the Bash track
+  - Added the "Two Fer" solution for the JavaScript track
+
+
 ## Day 8
 
 **Done**: 
