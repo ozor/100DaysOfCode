@@ -1,6 +1,15 @@
 # 100 Days of Code Challenge
 
 
+## Day 10
+
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Robot Name" solution for the PHP track
+
+
+
 ## Day 9
 
 **Done**: 
