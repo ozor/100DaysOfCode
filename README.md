@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 12
+
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Space Age" solution for the PHP track
+
+
 ## Day 11
 
 **Done**: 
