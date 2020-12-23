@@ -8,6 +8,11 @@
 - [Exercism](https://github.com/ozor/Exercism)
   - Added the "Space Age" solution for the PHP track
 
+**Other**: 
+
+- [Proghub](https://proghub.ru/profile/dushakov)
+  - Tried PHP8 test
+
 
 ## Day 11
 
