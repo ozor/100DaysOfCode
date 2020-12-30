@@ -1,6 +1,16 @@
 # 100 Days of Code Challenge
 
 
+## Day 14
+
+**Other**: 
+
+- [Proghub](https://proghub.ru/profile/dushakov)
+  - Tried PHP basics test
+  - Tried jQuery basics test
+- Inited [Laravel 8 project](https://github.com/ozor/laravel-experiments) for experiments
+
+
 ## Day 13
 
 **Done**: 
