@@ -3,6 +3,14 @@
 
 ## Day 14
 
+**Done**: 
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Leap" solution for the PHP track
+
+
+## Day 14
+
 **Other**: 
 
 - [Proghub](https://proghub.ru/profile/dushakov)
