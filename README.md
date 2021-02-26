@@ -1,6 +1,12 @@
 # 100 Days of Code Challenge
 
 
+
+## Too long vacation
+
+Because of long time inactivity, I've restarted the Challenge.
+
+
 ## Day 15
 
 **Done**: 
