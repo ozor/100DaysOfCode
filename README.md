@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 2
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Raindrops" solution for the PHP track
+
+
 ## Day 1
 
 **Done**:
