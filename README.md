@@ -1,6 +1,13 @@
 # 100 Days of Code Challenge
 
 
+## Day 1
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Hello, World!" solution for the C track
+
 
 ## Too long vacation
 
