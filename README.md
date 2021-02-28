@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 3
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Word Count" solution for the PHP track
+
+
 ## Day 2
 
 **Done**:
