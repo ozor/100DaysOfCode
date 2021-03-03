@@ -1,6 +1,19 @@
 # 100 Days of Code Challenge
 
 
+## Day 4
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Pangram" solution for the PHP track
+  - Added the "Raindrops" solution for the Python track
+
+**Other**:
+
+- Some exercises on [Stepik](https://stepik.org/users/492241)
+
+
 ## Day 3
 
 **Done**:
