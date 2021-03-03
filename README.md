@@ -21,10 +21,6 @@
 - [Exercism](https://github.com/ozor/Exercism)
   - Added the "Word Count" solution for the PHP track
 
-**Other**:
-
-- Some exercises on [Stepik](https://stepik.org/users/492241)
-
 
 ## Day 2
 
