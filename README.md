@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 5
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Triangle" solution for the PHP track
+
+
 ## Day 4
 
 **Done**:
