@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 6
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Anagram" solution for the PHP track
+
+
 ## Day 5
 
 **Done**:
