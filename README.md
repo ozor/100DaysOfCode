@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 7
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Armstrong Numbers" task for the PHP track
+
+
 ## Day 6
 
 **Done**:
