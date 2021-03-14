@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 8
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Bowling" task for the PHP track
+
+
 ## Day 7
 
 **Done**:
