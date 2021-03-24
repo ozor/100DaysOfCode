@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 9
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Difference Of Squares" task for the PHP track
+
+
 ## Day 8
 
 **Done**:
