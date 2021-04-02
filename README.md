@@ -1,6 +1,14 @@
 # 100 Days of Code Challenge
 
 
+## Day 10
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "High Scores" task for the Python track
+
+
 ## Day 9
 
 **Done**:
