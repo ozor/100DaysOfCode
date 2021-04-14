@@ -1,6 +1,22 @@
 # 100 Days of Code Challenge
 
 
+## Day 11
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Resistor Color Duo" task for the JavaScript track
+
+
+## Day 10
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "High Scores" task for the Python track
+
+
 ## Day 10
 
 **Done**:
