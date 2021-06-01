@@ -1,6 +1,22 @@
 # 100 Days of Code Challenge
 
 
+
+## Day 1
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Clock" task for the PHP track
+
+
+## Too long vacation
+
+Because of long time inactivity, I've restarted the Challenge. AGAIN. 
+
+::facepalm::
+
+
 ## Day 13
 
 **Done**:
