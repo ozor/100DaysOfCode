@@ -2,6 +2,16 @@
 
 
 
+## Day 2
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Sieve" task for the PHP track
+  - Added the "Trinary" task for the PHP track
+  - Added the "Hamming" task for the Python track
+
+
 ## Day 1
 
 **Done**:
