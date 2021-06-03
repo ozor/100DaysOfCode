@@ -24,7 +24,7 @@
 
 Because of long time inactivity, I've restarted the Challenge. AGAIN. 
 
-::facepalm::
+:facepalm:
 
 
 ## Day 13
