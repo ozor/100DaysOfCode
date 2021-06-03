@@ -27,7 +27,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
 :facepalm:
 
 
-## Day 13
+## Day 14
 
 **Done**:
 
@@ -35,7 +35,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Matrix" task for the Python track
 
 
-## Day 12
+## Day 13
 
 **Done**:
 
@@ -43,7 +43,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Pangram" task for the Python track
 
 
-## Day 11
+## Day 12
 
 **Done**:
 
@@ -51,7 +51,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Resistor Color Duo" task for the JavaScript track
 
 
-## Day 10
+## Day 11
 
 **Done**:
 
