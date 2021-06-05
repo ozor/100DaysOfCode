@@ -2,6 +2,14 @@
 
 
 
+## Day 3
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Isogram" task for the Python track
+
+
 ## Day 2
 
 **Done**:
