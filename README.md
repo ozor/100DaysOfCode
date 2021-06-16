@@ -2,6 +2,14 @@
 
 
 
+## Day 4
+
+**Done**:
+
+- [Exercism](https://github.com/ozor/Exercism)
+  - Added the "Twelve Days" task for the Python track
+
+
 ## Day 3
 
 **Done**:
