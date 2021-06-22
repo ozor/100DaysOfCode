@@ -1,4 +1,4 @@
-# Code Kata Log
+# Code Katas Log
 
 This is the Log Repo of my Code Katas, freecoding and other code experiments
 
