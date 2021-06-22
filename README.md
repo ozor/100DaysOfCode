@@ -1,8 +1,10 @@
-# 100 Days of Code Challenge
+# Code Kata Log
 
+This is the Log Repo of my Code Katas, freecoding and other code experiments
 
+---
 
-## Day 4
+## Day 33
 
 **Done**:
 
@@ -10,7 +12,7 @@
   - Added the "Twelve Days" task for the Python track
 
 
-## Day 3
+## Day 32
 
 **Done**:
 
@@ -18,7 +20,7 @@
   - Added the "Isogram" task for the Python track
 
 
-## Day 2
+## Day 31
 
 **Done**:
 
@@ -28,7 +30,7 @@
   - Added the "Hamming" task for the Python track
 
 
-## Day 1
+## Day 30
 
 **Done**:
 
@@ -36,14 +38,7 @@
   - Added the "Clock" task for the PHP track
 
 
-## Too long vacation
-
-Because of long time inactivity, I've restarted the Challenge. AGAIN. 
-
-:facepalm:
-
-
-## Day 14
+## Day 29
 
 **Done**:
 
@@ -51,7 +46,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Matrix" task for the Python track
 
 
-## Day 13
+## Day 28
 
 **Done**:
 
@@ -59,7 +54,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Pangram" task for the Python track
 
 
-## Day 12
+## Day 27
 
 **Done**:
 
@@ -67,7 +62,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Resistor Color Duo" task for the JavaScript track
 
 
-## Day 11
+## Day 26
 
 **Done**:
 
@@ -75,7 +70,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "High Scores" task for the Python track
 
 
-## Day 10
+## Day 25
 
 **Done**:
 
@@ -83,7 +78,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "High Scores" task for the Python track
 
 
-## Day 9
+## Day 24
 
 **Done**:
 
@@ -91,7 +86,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Difference Of Squares" task for the PHP track
 
 
-## Day 8
+## Day 23
 
 **Done**:
 
@@ -99,7 +94,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Bowling" task for the PHP track
 
 
-## Day 7
+## Day 22
 
 **Done**:
 
@@ -107,7 +102,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Armstrong Numbers" task for the PHP track
 
 
-## Day 6
+## Day 21
 
 **Done**:
 
@@ -115,7 +110,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Anagram" solution for the PHP track
 
 
-## Day 5
+## Day 20
 
 **Done**:
 
@@ -123,7 +118,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Triangle" solution for the PHP track
 
 
-## Day 4
+## Day 19
 
 **Done**:
 
@@ -136,7 +131,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
 - Some exercises on [Stepik](https://stepik.org/users/492241)
 
 
-## Day 3
+## Day 18
 
 **Done**:
 
@@ -144,7 +139,7 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Word Count" solution for the PHP track
 
 
-## Day 2
+## Day 17
 
 **Done**:
 
@@ -152,17 +147,12 @@ Because of long time inactivity, I've restarted the Challenge. AGAIN.
   - Added the "Raindrops" solution for the PHP track
 
 
-## Day 1
+## Day 16
 
 **Done**:
 
 - [Exercism](https://github.com/ozor/Exercism)
   - Added the "Hello, World!" solution for the C track
-
-
-## Too long vacation
-
-Because of long time inactivity, I've restarted the Challenge.
 
 
 ## Day 15
